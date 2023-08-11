@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_location_name">Имя места</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="accept">Выбрать</string>
+    <string name="pressure_normal">норма</string>
+    <string name="pressureDesc">давление</string>
+    <string name="selected_location_name">Выбрана локация </string>
+    <string name="selected_location_name_value">Не выбрано</string>
+    <string name="title_activity_locations_list">Список мест</string>
+    <string name="toastTextLocationAdded">Место добавлено!</string>
+    <string name="title_add_location">Добавить новое место</string>
+    <string name="author">Aвтор: Лина</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="button_add_location_title">Сохранить место</string>
+    <string name="latitudeItemLabel">широта:</string>
+    <string name="longitudeItemLabel">долгота:</string>
+    <string name="latitudeItem">latitude</string>
+    <string name="longitudeItem">longitude</string>
+    <string name="itemCityName">Задайте имя места</string>
+    <string name="deleteItemButton">Удалить место</string>
+    <string name="apikey">API ключ</string>
+    <string name="buttonTextSaveApiKey">Сохранить API</string>
+    <string name="checkBoxSetDefaultKey">Использовать API-ключ по-умолчанию</string>
+    <string name="toastWeatherApiSaved">Погодный API-ключ сохранен!</string>
+    <string name="language_app">ru</string>
+    <string name="pressureUnits">мм.рт.ст.</string>
+    <string name="windDesc">ветер</string>
+    <string name="windUnits">м/с</string>
+    <string name="toastWeatherApiKeyWrong">Погодный API-ключ недействителен.  Введите действительный ключ API!</string>
+    <string name="toastLocationDeleted">Место было удалено.</string>
+    <string name="pressureNORMAL">норма</string>
+    <string name="pressureH_PRESSURE">выше нормы</string>
+    <string name="pressureL_PRESSURE">ниже нормы</string>
+    <string name="monday">Пн</string>
+    <string name="tuesday">Вт</string>
+    <string name="wednesday">Ср</string>
+    <string name="thurday">Чт</string>
+    <string name="friday">Пт</string>
+    <string name="saturday">Сб</string>
+    <string name="sunday">Вс</string>
+    <string name="button_search_location_title">Найти</string>
+    <string name="labelTextAboutApiKey">Погода запрашивается с помощью сервиса  Оpenweathermap.org . Пожалуйста, зарегистрируйтесь на этом веб-сайте, чтобы получить бесплатный ключ для надежного приема погоды.</string>
+    <string name="title_activity_information">Информация о программе</string>
+</resources>

@@ -1,0 +1,64 @@
+<resources>
+<!--    MainActivity-->
+    <string name="app_name" translatable="false">Universe home clock</string>
+    <string name="add_location_name">Add location Name</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="accept">Выбрать</string>
+    <string name="pressure_normal">norm</string>
+    <string name="pressureDesc">pressure</string>
+    <string name="pressureUnits">mmHg.</string>
+    <string name="windDesc">wind</string>
+    <string name="windUnits">m/s</string>
+    <string name="selected_location_name">Selected location</string>
+    <string name="selected_location_name_value">Not selected</string>
+    <string name="title_activity_locations_list">Locations list</string>
+
+    <string name="toastWeatherApiKeyWrong">Weather API key is invalid.  Enter a valid API key!</string>
+
+<!--pressureSummary-->
+    <string name="pressureNORMAL">norm</string>
+    <string name="pressureH_PRESSURE">above normal</string>
+    <string name="pressureL_PRESSURE">below normal</string>
+<!--Days of week-->
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thurday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+<!--Location list activity-->
+
+    <string name="toastLocationDeleted">Location was deleted.</string>
+
+<!--    Create location activity-->
+    <string name="title_add_location">Add new location</string>
+    <string name="toastTextLocationAdded">Location added!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="button_add_location_title">Save location</string>
+    <string name="latitudeItemLabel">lat:</string>
+    <string name="longitudeItemLabel">lon:</string>
+    <string name="latitudeItem">latitude</string>
+    <string name="longitudeItem">longitude</string>
+    <string name="itemCityName">Set location name</string>
+<!--Information activity-->
+    <string name="version" translatable="false">ver. 1.0</string>
+    <string name="author">Author: Lina</string>
+    <string name="deleteItemButton">Delete location.</string>
+    <string name="buttonTextSaveApiKey">Save API</string>
+    <string name="valueApiKey" translatable="false">YTM1MjQ1MTBlZWUwOThiMDYzNzc3NDgxYjhjOTIxMzk=</string>
+    <string name="apikey">API key</string>
+    <string name="checkBoxSetDefaultKey">"Use Default API Key "</string>
+    <string name="toastWeatherApiSaved">Weather API KEY saved!</string>
+    <string name="language_app">en</string>
+    <string name="button_search_location_title">Search</string>
+    <string name="labelTextAboutApiKey">Weather is requested using the service Openweathermap.org . Please register on this website to get a free key for reliable weather reception.</string>
+    <string name="title_activity_information">Information about app</string>
+    <array name="hintLocations">
+        <item>Moscow</item>
+        <item>London</item>
+        <item>New York</item>
+    </array>
+</resources>

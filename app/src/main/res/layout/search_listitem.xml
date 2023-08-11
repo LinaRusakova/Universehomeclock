@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/itemCityName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/unchecked"
+                android:gravity="start"
+                android:padding="5dp"
+                android:text="@string/itemCityName"
+                android:textColor="#226666"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:focusable="false"
+            android:focusableInTouchMode="false">
+
+            <TextView
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:id="@+id/itemLabelLatitude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:padding="5dp"
+                android:text="@string/latitudeItemLabel"
+                android:textColor="#888"
+                android:textSize="14sp" />
+
+            <TextView
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:id="@+id/itemLatitude"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:padding="5dp"
+                android:text="@string/latitudeItem"
+                android:textColor="#000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:id="@+id/itemLabelLongitude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:padding="5dp"
+                android:text="@string/longitudeItemLabel"
+                android:textColor="#888"
+                android:textSize="14sp" />
+
+            <TextView
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:id="@+id/itemLongitude"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:padding="5dp"
+                android:text="@string/longitudeItem"
+                android:textColor="#000"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
