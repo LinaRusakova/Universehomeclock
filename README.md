@@ -5,6 +5,8 @@ The Application works on Android 4.2. (API 17) and newer.
 
 To get the weather, the program uses the service Openweathermap.org.
 
+To install use the file: https://github.com/LinaRusakova/Universehomeclock/blob/cf0cb788cdb1aad7412a38a6c1383ea97a5b6b09/app/release/app-release.apk
+
 ## "Main window"
 Old device (Android 4.2, screen resolution 320x480):
 ![Снимок экрана от 2023-08-12 03-03-40](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/c9d04bf7-1729-475d-8f28-b2eca0976c2e)
@@ -49,13 +51,15 @@ If the default key for getting the weather has stopped working, you can get your
 
 
 
+
+
 # UNIVERSE HOME CLOCK [RU]
 Приложение для Android, которое отображает текущее время и текущую погоду в указанном вами месте.
 
 Приложение работает на Android 4.2. (API 17) и новее.
 
 Для получения погоды, программа использует сервис Openweathermap.org.
-
+Для установки исползуйте файл https://github.com/LinaRusakova/Universehomeclock/blob/cf0cb788cdb1aad7412a38a6c1383ea97a5b6b09/app/release/app-release.apk
 
 ## "Главное окно"
 Для выбора нового места для отображения погоды коснитесь названия места (в правом нижнем углу экрана).
