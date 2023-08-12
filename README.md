@@ -9,6 +9,7 @@ To install use the file: https://github.com/LinaRusakova/Universehomeclock/blob/
 
 ## "Main window"
 Old device (Android 4.2, screen resolution 320x480):
+
 ![Снимок экрана от 2023-08-12 03-03-40](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/c9d04bf7-1729-475d-8f28-b2eca0976c2e)
 
 New devices (Android 13, screen resolution 1080x2220):
@@ -16,32 +17,36 @@ New devices (Android 13, screen resolution 1080x2220):
 
 Tap a location to select a new location.
 
-## "List Location" window
+## "Locations list" window
 Contains a list of places you have added. At any time, you can change the location by selecting it from the list, or delete the one you don't need.
 To add a new location, tap "+".
 
 Old device (Android 4.2, screen resolution 320x480):
+
 ![Снимок экрана от 2023-08-12 03-03-25](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/96aae184-b6ef-4856-a4f0-d8a303e84e24)
 
 
-
 New devices (Android 13, screen resolution 1080x2220):
+
 ![Снимок экрана от 2023-08-12 03-09-17](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/b09034bc-90d9-463d-882e-4383ba8e4aae)
 
 
 ## "Add new Location" window
 Old device (Android 4.2, screen resolution 320x480):
+
 ![Снимок экрана от 2023-08-12 03-02-57](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/d63bb7c7-5993-410c-a69e-9c26c8aae5fe)
 
-
 New devices (Android 13, screen resolution 1080x2220):
+
 ![Снимок экрана от 2023-08-12 03-08-57](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/1e400d80-5fb2-4be6-a678-e4f3299cb2e2)
 
 ## "Information" window
 Old device (Android 4.2, screen resolution 320x480):
+
 ![Снимок экрана от 2023-08-12 03-04-17](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/7af7c369-a7f6-43dc-be34-d8d593404549)
 
 New devices (Android 13, screen resolution 1080x2220):
+
 ![Снимок экрана от 2023-08-12 03-12-08](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/1cb9f185-6d07-4a92-af54-17514ccb8852)
 
 If the default key for getting the weather has stopped working, you can get your free key on the Openweathermap.org website and use it in the program in this window, for this:
@@ -79,6 +84,7 @@ If the default key for getting the weather has stopped working, you can get your
 Для добавления нового места коснитесь "+".
 
 Старое устройство (Android 4.2, разрешение экрана 320x480):
+
 ![Снимок экрана от 2023-08-12 02-57-00](https://github.com/LinaRusakova/Universehomeclock/assets/69868318/c41d647a-907e-4c5c-921d-92bb3ef9163d)
 
 Новые устройства (Android 13, разрешение экрана 1080x2220):
